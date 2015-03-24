@@ -33,4 +33,4 @@ var thread = new Thread(
 //call the function you defined earlier
 thread.call(6,7);
 ```
-Example: http://keithwhor.github.io/multithread.js/
+Example: http://jsfiddle.net/howderek/qm24cd9e/
